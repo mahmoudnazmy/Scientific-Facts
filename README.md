@@ -1,19 +1,6 @@
 # 🌍 **Scientific Facts Explorer**  
 
 Welcome to **Scientific Facts Explorer**, a cutting-edge platform that generates **random scientific facts** across multiple disciplines. Whether you're fascinated by **physics, technology, chemistry, or biology**, this site offers an **endless stream of knowledge and discovery**.  
-
----
-
-## 🌟 Why This Platform?  
-
-✅ **Unleashes a world of scientific facts** – with **endless insights** from various fields.  
-✅ **Showcases advanced web technologies** – featuring **smooth animations, interactive UI, and dynamic transitions**.  
-✅ **Seamless light & dark mode support** – ensuring an optimal reading experience at any time.  
-✅ **Personalized experience** – save and manage your **favorite scientific discoveries** effortlessly.  
-✅ **Engineered for high performance** – built with **clean, efficient, and scalable code**.  
-
-This isn’t just a website—it’s a **revolution in scientific exploration**.  
-
 ---
 
 ## 🔬 **Key Categories**  
@@ -45,7 +32,7 @@ This repository contains the **production-ready build files**. The full source c
 
 📧 Have suggestions or inquiries? Feel free to reach out!  
 
-🌐 **Website:** [Coming Soon!](#)  
+🌐 **Website:** (https://mahmoudnazmy.github.io/Scientific-Facts/)  
 📩 **Email:** [your@email.com](https://www.linkedin.com/in/mahmoud-n/)  
 
 ---
